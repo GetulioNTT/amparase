@@ -27,8 +27,7 @@ O sistema possui funcionalidades de:
 - JavaScript
 
 ### Back-end
-- Node.js
-- Express.js
+- PHP
 
 ### Banco de Dados
 - MySQL
@@ -141,15 +140,9 @@ A interface possui:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 Desenvolvido por Marcelino Schafer e Getulio Teixeira Pinheiro Netto
 
 
 ---
-
-## 🌐 GitHub
-
-```plaintext
-https://https://github.com/GetulioNTT/amparase
-```
