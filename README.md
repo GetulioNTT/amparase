@@ -33,6 +33,7 @@ O sistema possui funcionalidades de:
 - MySQL
 
 ### Outras Ferramentas
+- Laravel
 - Git
 - GitHub
 - npm
