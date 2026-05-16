@@ -7,7 +7,10 @@
     <title>Ampara-se</title>
 </head>
 <body>
-    <h2>Landing page</h2>
-    <a href="login">login</a>
+    <h2>cadastre-se</h2>
+    <p>nome</p>
+    <p>email</p>
+    <p>senha</p>
+    <a href="homePage">cadastrar-se</a>
 </body>
 </html>

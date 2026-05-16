@@ -7,7 +7,10 @@
     <title>Ampara-se</title>
 </head>
 <body>
-    <h2>Landing page</h2>
-    <a href="login">login</a>
+    <h2>pagamento</h2>
+    <p>nome do projeto</p>
+    <p>valor</p>
+    <p>forma de pagamento</p>
+    <a href="project">voltar</a>
 </body>
 </html>

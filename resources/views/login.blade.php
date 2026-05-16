@@ -9,8 +9,11 @@
 <body>
     <h2>Login</h2>
     <h3>Não possui uma conta?</h3>
-    <a href="">cadastre-se</a>
-    <p>email</p>
+    <a href="signup">cadastre-se</a>
+    <p>email ou usuario</p>
     <p>senha</p>
+    <a href="homePage">entrar</a>
+    <h3>se for admin</h3>
+    <a href="admin">admin</a>
 </body>
 </html>

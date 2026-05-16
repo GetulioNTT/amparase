@@ -7,8 +7,6 @@
     <title>Ampara-se</title>
 </head>
 <body>
-    <h2>tela principal</h2>
-    <a href="profile">perfil</a><br/>
-    <a href="project">projetos</a>
+    <h2>administração</h2>
 </body>
 </html>

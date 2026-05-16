@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('land_page');
+    return view('landPage');
 });
 
 Route::get('/login', function () {
@@ -39,4 +39,12 @@ Route::get('/homePage', function () {
 
 Route::get('/payment', function () {
     return view('payment');
+});
+
+Route::get('/donation', function () {
+    return view('donation');
+});
+
+Route::get('/admin', function () {
+    return view('admin');
 });
